@@ -1,6 +1,6 @@
 {
   "routes": [
-    { "src": "^/NeihtDepTrai/(.*)", "dest": "/$1" },
+    { "src": "^/NeihtDepTrai/(.*)", "dest": "/index.html" },
     { "src": "/(.*)", "dest": "/maintenance.html" }
   ],
   "headers": [
